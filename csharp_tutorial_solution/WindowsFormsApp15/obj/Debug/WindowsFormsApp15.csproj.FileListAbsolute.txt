@@ -1,0 +1,10 @@
+C:\Users\정준수\Desktop\csharp_tutorial\csharp_tutorial_solution\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+C:\Users\정준수\Desktop\csharp_tutorial\csharp_tutorial_solution\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+C:\Users\정준수\Desktop\csharp_tutorial\csharp_tutorial_solution\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+C:\Users\정준수\Desktop\csharp_tutorial\csharp_tutorial_solution\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csprojAssemblyReference.cache
+C:\Users\정준수\Desktop\csharp_tutorial\csharp_tutorial_solution\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Form1.resources
+C:\Users\정준수\Desktop\csharp_tutorial\csharp_tutorial_solution\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\정준수\Desktop\csharp_tutorial\csharp_tutorial_solution\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+C:\Users\정준수\Desktop\csharp_tutorial\csharp_tutorial_solution\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+C:\Users\정준수\Desktop\csharp_tutorial\csharp_tutorial_solution\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+C:\Users\정준수\Desktop\csharp_tutorial\csharp_tutorial_solution\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
